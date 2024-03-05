@@ -1,0 +1,9 @@
+# ninja log v5
+2	412	7313650855289007	build.ninja	8c54c55f6d2a9c0f
+11	1366	7313650228290494	CMakeFiles/cppSIDF.dir/Practice/Week1/task1.cpp.obj	5adc4644d21af46a
+1	1249	7313642505492358	CMakeFiles/cppSIDF.dir/main.cpp.obj	b63f35e72996a77f
+932	1064	7313649646479135	cppSIDF.exe	64f25cdc5a085ec2
+5	1285	7313650227470947	CMakeFiles/cppSIDF.dir/Practice/main.cpp.obj	992036d54faf3c61
+1	688	7313650855289007	build.ninja	8c54c55f6d2a9c0f
+1	1903	7313650875737319	CMakeFiles/cppSIDF.dir/Practice/Week1/main.cpp.obj	f8e5c02337f8f44d
+1904	2182	7313650878475721	cppSIDF.exe	56e3aa8fd1522590

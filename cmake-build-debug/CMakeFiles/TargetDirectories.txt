@@ -1,0 +1,3 @@
+C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/cppSIDF.dir
+C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
