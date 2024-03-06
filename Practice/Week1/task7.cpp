@@ -1,3 +1,16 @@
-//
-// Created by Besha on 6. 3. 2024..
-//
+#include <iostream>
+using namespace std;
+
+
+
+
+int main() {
+    string s="",song;
+
+    while(s!="exit"){
+
+        song+=s;
+        cin>>s;
+    }
+    cout<<song;
+}

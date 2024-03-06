@@ -2,10 +2,10 @@
 using namespace std;
 
 
-void task1(){
-    cout<<"Hello world"<<endl;
-}
+
 
 int main() {
-    task1();
+    cout<<"Ajdin Besic"<<endl;
+    cout<<"01/05/03"<<endl;
+    cout<<"062/194-999"<<endl;
 }
