@@ -24,5 +24,6 @@ C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/2task12.dir
 C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/2task13.dir
 C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/2task14.dir
 C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/2task15.dir
+C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/OSProject.dir
 C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug/CMakeFiles/rebuild_cache.dir

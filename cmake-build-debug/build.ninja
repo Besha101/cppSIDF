@@ -898,6 +898,39 @@ build 2task15.exe: CXX_EXECUTABLE_LINKER__2task15_Debug CMakeFiles/2task15.dir/P
   TARGET_IMPLIB = lib2task15.dll.a
   TARGET_PDB = 2task15.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target OSProject
+
+
+#############################################
+# Order-only phony target for OSProject
+
+build cmake_object_order_depends_target_OSProject: phony || CMakeFiles/OSProject.dir
+
+build CMakeFiles/OSProject.dir/OS/Project2Task.cpp.obj: CXX_COMPILER__OSProject_unscanned_Debug C$:/Users/Besha/CLionProjects/cppSIDF/OS/Project2Task.cpp || cmake_object_order_depends_target_OSProject
+  DEP_FILE = CMakeFiles\OSProject.dir\OS\Project2Task.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\OSProject.dir
+  OBJECT_FILE_DIR = CMakeFiles\OSProject.dir\OS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target OSProject
+
+
+#############################################
+# Link the executable OSProject.exe
+
+build OSProject.exe: CXX_EXECUTABLE_LINKER__OSProject_Debug CMakeFiles/OSProject.dir/OS/Project2Task.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\OSProject.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = OSProject.exe
+  TARGET_IMPLIB = libOSProject.dll.a
+  TARGET_PDB = OSProject.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -954,6 +987,8 @@ build 2task8: phony 2task8.exe
 
 build 2task9: phony 2task9.exe
 
+build OSProject: phony OSProject.exe
+
 build task1: phony task1.exe
 
 build task10: phony task10.exe
@@ -984,7 +1019,7 @@ build task9: phony task9.exe
 #############################################
 # Folder: C:/Users/Besha/CLionProjects/cppSIDF/cmake-build-debug
 
-build all: phony task1.exe task2.exe task3.exe task4.exe task5.exe task6.exe task7.exe task8.exe task9.exe task10.exe task11.exe 2task1.exe 2task2.exe 2task3.exe 2task4.exe 2task5.exe 2task6.exe 2task7.exe 2task8.exe 2task9.exe 2task10.exe 2task11.exe 2task12.exe 2task13.exe 2task14.exe 2task15.exe
+build all: phony task1.exe task2.exe task3.exe task4.exe task5.exe task6.exe task7.exe task8.exe task9.exe task10.exe task11.exe 2task1.exe 2task2.exe 2task3.exe 2task4.exe 2task5.exe 2task6.exe 2task7.exe 2task8.exe 2task9.exe 2task10.exe 2task11.exe 2task12.exe 2task13.exe 2task14.exe 2task15.exe OSProject.exe
 
 # =============================================================================
 # Built-in targets

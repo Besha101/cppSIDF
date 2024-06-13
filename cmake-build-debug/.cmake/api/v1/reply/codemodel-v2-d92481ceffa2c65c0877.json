@@ -40,7 +40,8 @@
 						22,
 						23,
 						24,
-						25
+						25,
+						26
 					]
 				}
 			],
@@ -80,7 +81,8 @@
 						22,
 						23,
 						24,
-						25
+						25,
+						26
 					]
 				}
 			],
@@ -189,6 +191,13 @@
 					"id" : "2task9::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-2task9-Debug-a75cd71b3d67909577a4.json",
 					"name" : "2task9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OSProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OSProject-Debug-f33332f13e7e336c54cc.json",
+					"name" : "OSProject",
 					"projectIndex" : 0
 				},
 				{

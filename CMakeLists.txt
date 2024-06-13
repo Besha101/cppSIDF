@@ -33,3 +33,5 @@ add_executable(2task12 Practice/Week2/task12.cpp)
 add_executable(2task13 Practice/Week2/task13.cpp)
 add_executable(2task14 Practice/Week2/task14.cpp)
 add_executable(2task15 Practice/Week2/task15.cpp)
+
+add_executable(OSProject OS/Project2Task.cpp)

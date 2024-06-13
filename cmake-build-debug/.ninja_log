@@ -3,11 +3,11 @@
 1	1249	7313642505492358	CMakeFiles/cppSIDF.dir/main.cpp.obj	b63f35e72996a77f
 7	979	7314489461519121	CMakeFiles/cppSIDF.dir/Practice/Week1/task1.cpp.obj	5adc4644d21af46a
 1	2064	7315476271193431	CMakeFiles/2task11.dir/Practice/Week2/task11.cpp.obj	7aaaca2e39f2b51b
-4	338	7315479132494545	build.ninja	8c54c55f6d2a9c0f
-2	1701	7314502998017763	CMakeFiles/task4.dir/Practice/Week1/task4.cpp.obj	31ddd7b8019b0f5b
-8	1568	7315456567677548	CMakeFiles/2task2.dir/Practice/Week2/task2.cpp.obj	1e0e3c733601d5bb
+4	338	7399981925691116	build.ninja	8c54c55f6d2a9c0f
 1334	1528	7314519095907761	task8.exe	436f51f2dcc11ba3
 980	1124	7314489462948285	cppSIDF.exe	f01c3a66c7e936a1
+2	1701	7314502998017763	CMakeFiles/task4.dir/Practice/Week1/task4.cpp.obj	31ddd7b8019b0f5b
+8	1568	7315456567677548	CMakeFiles/2task2.dir/Practice/Week2/task2.cpp.obj	1e0e3c733601d5bb
 955	1091	7314493258453219	cppSIDF1.exe	707b20548b95feb8
 1527	1803	7314513992490469	task6.exe	9c3710baf04caeab
 5	1285	7313650227470947	CMakeFiles/cppSIDF.dir/Practice/main.cpp.obj	992036d54faf3c61
@@ -32,6 +32,7 @@
 6	1334	7314519094067478	CMakeFiles/task8.dir/Practice/Week1/task8.cpp.obj	2013c5be6ff0c9dd
 1	2274	7315459994794212	CMakeFiles/2task4.dir/Practice/Week2/task4.cpp.obj	6d353f681f9ac4a2
 9	1498	7314520826769979	CMakeFiles/task9.dir/Practice/Week1/task9.cpp.obj	eb565542fb60084b
+1	1916	7315480460231448	CMakeFiles/2task14.dir/Practice/Week2/task14.cpp.obj	461d575af7e8080e
 1499	1672	7314520828439023	task9.exe	d231c74f6d0c1b62
 1536	1709	7314522453617506	task10.exe	608e93fdd56f7f73
 1	1183	7314524247171463	CMakeFiles/task11.dir/Practice/Week1/task11.cpp.obj	47f015342f948415
@@ -54,7 +55,12 @@
 0	2157	7315472294162914	CMakeFiles/2task9.dir/Practice/Week2/task9.cpp.obj	97f3fb3dcc532fc0
 2160	3240	7315472304824927	2task9.exe	7b97ef8561724ace
 2123	2498	7315478331944245	2task12.exe	72a234f7fbec1740
-1	1916	7315480460231448	CMakeFiles/2task14.dir/Practice/Week2/task14.cpp.obj	461d575af7e8080e
 1917	2112	7315480462150339	2task14.exe	886546f859c596b
 1	1805	7315481369470341	CMakeFiles/2task15.dir/Practice/Week2/task15.cpp.obj	22b5e71939d1d677
 1805	1994	7315481371269330	2task15.exe	31cda678826ccc5b
+7	6419	7399984123159378	CMakeFiles/OSProject.dir/OS/Project2Task.cpp.obj	2a3f32207d499fac
+6424	7905	7399984137769212	OSProject.exe	b9ce21a4c240ce0e
+47	4216	7399984599434451	CMakeFiles/OSProject.dir/OS/Project2Task.cpp.obj	2a3f32207d499fac
+4217	4579	7399984603012898	OSProject.exe	b9ce21a4c240ce0e
+10	2990	7399985497382026	CMakeFiles/OSProject.dir/OS/Project2Task.cpp.obj	2a3f32207d499fac
+2991	3142	7399985498822555	OSProject.exe	b9ce21a4c240ce0e
